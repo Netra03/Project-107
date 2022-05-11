@@ -1,0 +1,34 @@
+body {
+    font-family: 'EB Garamond', serif;
+    background:rgb(33, 33, 122);
+    color:aliceblue;
+}
+
+.header_div {
+    background:rgb(251, 130, 130);
+    color: black;   
+    font-weight: bold;
+}
+
+.header_div p{
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+button {
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 2px;
+}
+
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 18px;
+    letter-spacing: 1px;    
+    text-shadow: 2px 2px 2px white;
+}
